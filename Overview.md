@@ -172,7 +172,8 @@ A scattered chain of mystical islands shrouded in mist, ancient ruins, and super
 
 ## Visual Representation
 
-- Factions arranged in a circle.
+![Faction Web](./Assets/faction_web.png)
+
 - **Green lines** = Allies
 - **Red lines** = Enemies
 - **Orange lines** = Tensions
