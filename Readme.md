@@ -180,6 +180,35 @@ A scattered chain of mystical islands shrouded in mist, ancient ruins, and super
 
 ---
 
+# Flashpoints
+
+## 1. The Auction of Blades
+- **What’s Happening:** The Gilded Scarabs are auctioning a relic said to control Breathless Tempests.
+- **Factions Involved:** Gilded Scarabs, Azure Blades, Shattered Sky Order, Spiritwalkers
+- **Player Hooks:** Protect or steal the relic, navigate secret bids, survive pirate attacks.
+
+## 2. The Crimson Siege
+- **What’s Happening:** The Crimson Tide besieges Port Varuun, aiming to overthrow the Free Captains' Council.
+- **Factions Involved:** Crimson Tide, Azure Blades, Port Varuun locals
+- **Player Hooks:** Smuggle supplies, rescue hostages, choose a side.
+
+## 3. The Awakening Choir
+- **What’s Happening:** The Silent Choir completes a ritual to awaken an Ashen King beneath Vaer Rhadin.
+- **Factions Involved:** Silent Choir, Shardborn, Spiritwalkers, Ruby Council
+- **Player Hooks:** Stop or aid the awakening, protect or sabotage the Ruby Council, battle an undead king.
+
+## 4. Storms Over High Aerie
+- **What’s Happening:** A rogue sect of the Shattered Sky Order unleashes an uncontrollable Breathless Tempest.
+- **Factions Involved:** Shattered Sky Order (loyalists and radicals), Spiritwalkers
+- **Player Hooks:** Climb into a raging storm, destroy or learn from radical monks, recover ancient relics.
+
+## 5. The Jungle Stirs
+- **What’s Happening:** A moving jungle fortress awakens due to the Verdant Pulse's flare.
+- **Factions Involved:** Spiritwalkers, Verdant Pact, Gilded Scarabs
+- **Player Hooks:** Chase and map the fortress, unlock ancient jungle secrets, survive awakened spirits.
+
+---
+
 # Notes
 
 - Solwyn is designed for a fun, vibrant, deep fantasy experience.
